@@ -36,4 +36,4 @@ I built **Upkeep** to provide:
 ---
 
 ## Disclaimer & Attribution
-This project, from the initial logic architecture to the final Python implementation and documentation, was developed in collaboration with **Google Gemini**. It serves as a testament to how AI-assisted development can empower individuals to build high-quality, functional, and open-source utility software tailored to specific professional needs.
+This project, from the initial logic architecture to the final Python implementation and documentation, was developed in collaboration with **Google Gemini**. This is just a proejct I'm working on for my utilization.
